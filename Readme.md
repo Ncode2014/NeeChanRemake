@@ -8,12 +8,12 @@ because i have many Work in real life and finally nee chan Comeback with new fea
 ``` 
 
 ### Plan
-- [ x] Source Updated
+- [x] Source Updated
 - [ ] Fix Bug Cause Some Ad-block
 - [ ] Make Lightweight Host
 - [ ] Make Adblocker Version
 - [ ] Make & Testing New Host
-- [x ] Deleted Netflix and some stuff because it's cannot run on normal android system host
+- [x] Deleted Netflix and some stuff because it's cannot run on normal android system host
 
 ### Info
 ``` 
