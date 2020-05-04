@@ -9,8 +9,8 @@ is so difficult to Bypass
 ```
 ### Plan Next To update
 >**Planing Fix soon**
-- [] Fixed Some J*v Website
-- [] Fixed P*rn,netflix & Reddit Soon Fix
+- [ ] Fixed Some J*v Website
+- [ ] Fixed P*rn,netflix & Reddit Soon Fix
 ```
 why fix this because base Host Is outdated And Some Website has been taken by IPO-Chan
 so i developer NeechanHost Fix host on my repo self not my base Host on some Repo
