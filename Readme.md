@@ -1,6 +1,6 @@
 # NeChan Remake
 # Changelog
-[Changelog Update](https://github.com/Ncode2014/NeeChanRemake/blob/master/Changelog.md).
+[Changelog](https://github.com/Ncode2014/NeeChanRemake/blob/master/Changelog.md).
 ### Note
 ```
 finally Neechan Comeback Since November 2019 i stop neechan Project 
