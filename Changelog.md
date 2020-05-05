@@ -7,10 +7,22 @@
 for doujins & Nhentai soon Added Because Nhentai and Doujin have stable ip not like Era 2019 when Doujins.com
 is so difficult to Bypass
 ```
+### Update 1.0 beta 2
+>**Update Fixed Only**
+- Normal Version
+```
+fixed nekopoi,jav.guru,and more
+```
+- Adblock Version
+```
+added new ads blocking from my research
+```
+- this maybe i change some host because this is project still alpha update
+
 ### Plan Next To update
 >**Planing Fix soon**
 - [ ] Fixed Some J*v Website
-- [ ] Fixed P*rn,netflix & Reddit Soon Fix
+- [x] Fixed P*rn,netflix & Reddit Soon Fix
 ```
 why fix this because base Host Is outdated And Some Website has been taken by IPO-Chan
 so i developer NeechanHost Fix host on my repo self not my base Host on some Repo
