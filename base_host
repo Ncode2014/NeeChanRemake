@@ -2,8 +2,10 @@
 ::1             ip6-localhost
 
 # NeeChan Remake 
-# temporary Host Updated
-# If This Project is done i deleted this file
+# Base Host 
+# what is base Host? base host is a host raw that contain updated resource or fix from you
+# you can edit this host your self and i can added this host
+# this host is base for update Normal,adblock and light host
 
 # [IPO-Chan Sim Card]
 127.0.0.1 restricted.tri.co.id
@@ -196,7 +198,7 @@
 23.46.238.248 102skyfiregce-vimeo.akamaized.net
 
 # [thepiratebay.org]
-104.24.190.20 thepiratebay.org
+104.24.190.20 thepiratebay.org www.thepiratebay.org
 
 # [hitomi.la]
 178.17.174.221 hitomi.la www.hitomi.la
@@ -204,12 +206,13 @@
 23.237.107.210 ltn.hitomi.la streaming.hitomi.la tn.hitomi.la hf2.hitomi.la ctn.hitomi.la g.hitomi.la
 
 # [nhentai.net]
-104.27.195.88 nhentai.net www.nhentai.net
-104.27.194.88 static.nhentai.net
+104.27.205.92 nhentai.net www.nhentai.net
+104.27.204.92 static.nhentai.net
 185.165.243.200 t.nhentai.net i.nhentai.net webseed.nhentai.net
 
 # [gelbooru.com]
-67.202.114.141 gelbooru.com www.gelbooru.com
+208.100.28.56 gelbooru.com www.gelbooru.com
+172.64.130.27 img1.gelbooru.com
 212.8.240.5 img2.gelbooru.com simg3.gelbooru.com
 
 # [omegle.com]
@@ -221,13 +224,13 @@
 151.80.120.115 9.rarbg.to
 
 # [rarbg.me]
-151.80.120.115 9.rarbg.me
+151.80.120.115 9.rarbg.me www.9rarbg.me
 
 # [eztv.ag]
-104.27.208.30 eztv.ag
+104.27.208.30 eztv.ag www.eztv.ag
 
 # [isohunt.to]
-104.23.204.30 isohunt.to
+104.23.204.30 isohunt.to www.isohunt.io
 
 # [4chan.org]
 104.16.117.221 4chan.org
@@ -589,50 +592,6 @@
 
 # [mp4hentai.com]
 104.28.8.24 mp4hentai.com www.mp4hentai.com
-
-# [netflix.com] [Hasil riset IP berdasarkan jaringan Tri Indonesia]
-54.87.188.169 netflix.com www.netflix.com
-54.210.113.65 netflix.com www.netflix.com
-54.165.246.104 netflix.com www.netflix.com
-54.165.157.123 netflix.com www.netflix.com
-54.164.254.216 netflix.com www.netflix.com
-52.206.122.138 netflix.com www.netflix.com
-35.168.183.177 netflix.com www.netflix.com
-107.23.222.64 netflix.com www.netflix.com
-35.164.154.29 netflix.com www.netflix.com
-18.236.7.30 netflix.co.id www.netflix.co.id
-45.57.91.1 secure.netflix.com assets.nflxext.com codex.nflxext.com
-18.236.7.30 movies.netflix.com
-44.226.113.145 movies1.netflix.com
-34.218.19.240 movies2.netflix.com ir.netflix.com
-52.43.250.138 cbp-us.nccp.netflix.com
-207.45.72.201 dvd.netflix.com autocomplete.netflix.com bluray.netflix.com
-52.37.243.203 moviecontrol.netflix.com
-34.213.54.57 api.netflix.com
-54.68.2.232 www2.netflix.com
-35.161.93.216 nccp-nrdp-31.cloud.netflix.net nccp-ps3.cloud.netflix.net
-35.163.250.29 ios.nccp.netflix.com
-35.167.237.37 uiboot.netflix.com
-52.41.95.74 signup.netflix.com
-52.207.118.175 nccp-fuji.cloud.netflix.net nccp-nato.cloud.netflix.net
-104.123.71.136 mcdn.netflix.com
-52.24.207.8 api-user.netflix.com
-143.204.29.6 media.netflix.com
-52.38.152.174 help.netflix.com
-34.211.244.70 jobs.netflix.com
-207.45.72.215 nflxext.com nflximg.com
-34.218.19.240 nflxvideo.net
-107.20.175.192 nflxvideo.net
-34.252.74.1 nflxvideo.net
-46.137.171.215 nflxvideo.net
-52.31.48.193 nflxvideo.net
-204.236.236.127 nflxvideo.net
-44.226.113.145 nflxvideo.net
-50.17.247.9 nflxvideo.net
-18.236.7.30 nflxvideo.net
-52.36.243.167 api-global.netflix.com
-52.42.153.22 ichnaea.netflix.com
-35.160.69.163 account.netflix.com
 
 # [raw.senmanga.com]
 104.28.10.14 raw.senmanga.com
@@ -1091,10 +1050,10 @@
 104.20.137.49 celebjihad.com www.celebjihad.com
 
 # [javhd.com]
-199.80.55.247 javhd.com www.javhd.com
-199.80.55.245 secure.javhd.com
+213.174.154.216 javhd.com www.javhd.com
+213.174.154.199 secure.javhd.com
 199.167.65.10 static.javhd.com
-199.80.55.243 enter.javhd.com
+213.174.154.218 enter.javhd.com
 104.37.176.1 cdn.javhd.com cdn2.javhd.com share.javhd.com
 
 # [javbus.com]
@@ -1192,7 +1151,9 @@
 104.28.15.98 erogedownload.com www.erogedownload.com
 
 # [fapforfun.com]
-216.239.32.21 fapforfun.com www.fapforfun.com
+104.24.126.31 fapforfun.net www.fapforfun.net
+192.254.149.119 ns1.fapforfun.net webdisk.fapforfun.net cpanel.fapforfun.net mail.fapforfun.net webmail.fapforfun.net autodiscover.fapforfun.net
+192.254.149.116 ns2.fapforfun.net
 
 # [video.fc2.com]
 104.244.99.124 video.fc2.com
@@ -1282,7 +1243,7 @@
 104.18.54.148 7mm.tv www.7mm.tv
 
 # [sukebei.nyaa.si]
-185.221.200.12 sukebei.nyaa.si
+185.163.47.200 sukebei.nyaa.si
 
 # [sex.com]
 15.222.131.21 sex.com www.sex.com hd.sex.com m.sex.com video.sex.com gay.sex.com upload.sex.com premium.sex.com city.sex.com cdn.sex.com
@@ -1750,8 +1711,6 @@
 
 # [jav.guru]
 104.25.143.28 jav.guru www.jav.guru
-104.26.8.156 jav.guru www.jav.guru 
-104.26.9.156 jav.guru ww.jav.guru 
 104.25.142.28 static.jav.guru
 
 # [bbcsreborn.com]
@@ -2027,8 +1986,46 @@
 104.31.82.117 hentai-for.me www.hentai-for.me en.hentai-for.me
 
 # [onlyfans.com]
-35.153.48.222 onlyfans.com www.onlyfans.com
-99.86.58.57 static.cdn.onlyfans.com
+54.210.158.127 onlyfans.com
+52.6.27.88 route0.onlyfans.com
+100.26.128.8 live0.onlyfans.com
+54.84.133.215 stream0.onlyfans.com
+52.1.69.0 live1.onlyfans.com
+18.233.73.227 stream1.onlyfans.com
+3.214.123.128 convert1.onlyfans.com
+3.121.132.31 route0-dc2.onlyfans.com
+3.122.65.197 live0-dc2.onlyfans.com
+3.122.146.228 stream0-dc2.onlyfans.com
+3.122.139.138 live1-dc2.onlyfans.com
+3.122.40.204 stream1-dc2.onlyfans.com
+34.196.112.45 stream2.onlyfans.com
+3.126.84.208 p2p2.onlyfans.com
+18.232.191.151 convert2.onlyfans.com
+13.210.118.39 route0-dc3.onlyfans.com
+13.54.154.194 live0-dc3.onlyfans.com
+52.65.72.219 stream0-dc3.onlyfans.com
+13.237.183.173 live1-dc3.onlyfans.com
+3.24.196.79 stream1-dc3.onlyfans.com
+52.201.203.27 convert3.onlyfans.com
+149.72.128.209 o1.ptr8059.onlyfans.com
+3.209.209.140 thumbs.media.onlyfans.com
+54.175.88.73 netdata.onlyfans.com
+3.209.209.140 thumbs.public.onlyfans.com
+34.235.250.15 blog.onlyfans.com
+100.25.86.225 graylog.onlyfans.com
+3.214.79.233 bug.onlyfans.com
+34.230.144.104 api.onlyfans.com
+34.195.42.125 personal.onlyfans.com
+107.23.50.158 mail.onlyfans.com
+104.16.206.86 email.onlyfans.com
+34.198.239.23 p2p.onlyfans.com
+54.209.53.206 ws.onlyfans.com
+3.221.6.82 connect.onlyfans.com
+18.232.46.215 monit.onlyfans.com
+34.206.102.97 convert.onlyfans.com
+54.236.150.186 costreamconvert.onlyfans.com
+34.206.223.52 www.onlyfans.com
+3.122.121.3 gateway.onlyfans.com
 
 # [beeg.com]
 192.243.54.98 beeg.com www.beeg.com
@@ -2527,4 +2524,138 @@
 104.31.64.24 javgiga.com www.javgiga.com
 
 # [watchasian.to]
-104.27.207.92 watchasian.to www.watchasian.to
+104.27.207.92 watchasian.to www.watchasian.to www4.watchasian.to
+104.27.206.92 embed.watchasian.to
+
+# [jav.land]
+104.18.62.209 jav.land www.jav.land
+
+# [jav.sh]
+104.18.43.249 jav.sh www.jav.sh
+
+# [iafd.com]
+216.118.89.130 iafd.com www.iafd.com
+
+# [crackwatch.com]
+104.26.12.70 crackwatch.com www.crackwatch.com b2.crackwatch.com cron.crackwatch.com
+
+# [lookmovie.ag]
+104.31.1.179 lookmovie.ag www.lookmovie.ag
+
+# [investing.com]
+52.25.240.225 brokers-static.investing.com
+142.54.22.227 ca.investing.com
+142.54.22.223 m.ca.investing.com
+142.54.22.243 sa.investing.com
+142.54.22.223 m.sa.investing.com
+142.54.22.245 za.investing.com
+142.54.22.223 m.za.investing.com
+142.54.22.230 id.investing.com
+142.54.22.223 m.id.investing.com
+142.54.22.219 de.investing.com
+142.54.22.223 m.de.investing.com
+142.54.22.237 se.investing.com
+142.54.22.223 m.se.investing.com
+142.54.22.214 m.ng.investing.com m.ph.investing.com
+142.54.22.235 th.investing.com
+142.54.22.223 m.th.investing.com
+142.54.22.250 fi.investing.com
+142.54.22.223 m.fi.investing.com
+142.54.22.246 hi.investing.com
+142.54.22.224 m.hi.investing.com
+142.54.22.229 hk.investing.com
+142.54.22.223 m.hk.investing.com
+142.54.22.244 uk.investing.com
+142.54.22.223 m.uk.investing.com
+142.54.22.241 il.investing.com
+142.54.22.223 m.il.investing.com
+185.94.84.100 investing.com www.investing.com
+185.94.85.245 ecal.investing.com
+
+# [runeterrafire.com]
+104.22.14.228 runeterrafire.com www.runeterrafire.com
+
+# [netflixparty.com]
+104.22.28.102 netflixparty.com www.netflixparty.com static.netflixparty.com
+
+# [rutracker.org]
+85.112.96.21 rack.rutracker.org zabbix.rutracker.org
+104.27.128.21 blog.rutracker.org wiki.rutracker.org adcal.rutracker.org
+104.27.128.21 generation.rutracker.org
+193.70.97.249 mx.rutracker.org
+195.82.147.50 ns.rutracker.org
+195.82.146.120 bt.rutracker.org
+195.82.146.50 mail.rutracker.org
+195.82.146.100 proxy.rutracker.org
+195.82.146.214 rutracker.org www.rutracker.org
+195.82.146.50 ns2.rutracker.org
+195.82.146.123 bt4.rutracker.org
+195.82.146.118 gitlab.rutracker.org
+195.82.146.52 feed.rutracker.org subs.rutracker.org
+195.82.147.150 ns1.rutracker.org
+
+# [fancentro.com]
+31.192.113.173 fancentro.com www.fancentro.com
+31.192.119.10 ns1.fancentro.com
+64.210.159.155 im2.fancentro.com
+31.192.119.14 ns2.fancentro.com
+18.194.132.150 blog.fancentro.com
+64.210.159.155 el.fancentro.com
+149.72.224.186 o30.mail.fancentro.com
+149.72.224.45 o21.mail.fancentro.com
+168.245.77.138 o22.mail.fancentro.com
+198.21.4.64 o23.mail.fancentro.com
+149.72.224.27 o24.mail.fancentro.com
+168.245.94.107 o25.mail.fancentro.com
+167.89.54.72 o26.mail.fancentro.com
+168.245.48.178 o6.mail.fancentro.com
+149.72.196.46 o27.mail.fancentro.com
+198.21.4.31 o28.mail.fancentro.com
+149.72.176.79 o29.mail.fancentro.com
+64.210.159.155 im.fancentro.com
+18.184.197.212 go.fancentro.com
+94.199.252.50 drip.fancentro.com
+165.227.76.60 swipeup.fancentro.com
+168.245.113.92 o10.mkt.fancentro.com
+168.245.107.50 o9.mkt.fancentro.com
+77.247.178.190 statz.fancentro.com
+
+# [redgifs.com]
+99.86.230.34 redgifs.com www.redgifs.com
+13.227.73.42 thumbs.redgifs.com
+
+# [zenra.net]
+66.199.190.206 zenra.net www.zenra.net
+
+# [layarlebar.co]
+104.24.111.227 layarlebar.co
+104.24.110.227 www.layarlebar.co
+
+# [dramanice.movie]
+104.26.9.236 dramanice.movie www.dramanice.movie www7.dramanice.movie
+104.26.8.236 www4.dramanice.movie www6.dramanice.movie embed.dramanice.movie
+
+# [cityxguide.com]
+104.27.192.92 cityxguide.com www.cityxguide.com my2.cityxguide.com my3.cityxguide.com b.cityxguide.com web.cityxguide.com x.cityxguide.com my.cityxguide.com
+184.105.148.223 img111.cityxguide.com image03.cityxguide.com images.cityxguide.com
+62.210.206.151 img114a.cityxguide.com img114au.cityxguide.com
+184.105.148.225 chat.cityxguide.com gallery.cityxguide.com
+94.130.237.34 img112a.cityxguide.com
+167.114.158.79 img113a.cityxguide.com
+62.210.215.5 img115a.cityxguide.com
+94.130.88.92 img112b.cityxguide.com
+167.114.158.82 img113b.cityxguide.com
+62.210.206.226 img114b.cityxguide.com
+62.210.206.238 img115b.cityxguide.com
+176.9.27.229 img112c.cityxguide.com
+88.198.90.103 img112d.cityxguide.com
+167.114.173.83 img112e.cityxguide.com
+184.105.148.226 forum.cityxguide.com
+
+# [chatterbate.io]
+104.18.42.17 chatterbate.io www.chatterbate.io
+
+# [yifysubtitles.com]
+193.200.241.149 webdisk.yifysubtitles.com cpanel.yifysubtitles.com mail.yifysubtitles.com webmail.yifysubtitles.com autodiscover.yifysubtitles.com subtitleswww.yifysubtitles.com
+104.26.15.136 yifysubtitles.com
+104.26.14.136 www.yifysubtitles.com
