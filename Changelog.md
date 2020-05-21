@@ -7,6 +7,13 @@
 for doujins & Nhentai soon Added Because Nhentai and Doujin have stable ip not like Era 2019 when Doujins.com
 is so difficult to Bypass
 ```
+### Update Ready To 1.1 (alpha test)
+- [x] Updated Resource
+```
+Updated resource only
+```
+- Soon Updated Adblock 
+- added contribute 
 ### Update 1.0 beta 2
 >**Update Fixed Only**
 - Normal Version

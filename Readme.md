@@ -1,6 +1,7 @@
 # NeChan Remake
 # Changelog
 [Changelog](https://github.com/Ncode2014/NeeChanRemake/blob/master/Changelog.md).
+[Contribute](https://github.com/Ncode2014/NeeChanRemake/blob/master/contribute.md).
 ### Note
 ```
 finally Neechan Comeback Since November 2019 i stop neechan Project 
@@ -9,10 +10,10 @@ because i have many Work in real life and finally nee chan Comeback with new fea
 
 ### Plan
 - [x] Source Updated
-- [ ] Fix Bug Cause Some Ad-block
-- [ ] Make Lightweight Host
+- [x] Fix Bug Cause Some Ad-block
+- [ ] Make Light Host
 - [ ] Make Adblocker Version
-- [ ] Make & Testing New Host
+- [x] Make & Testing New Host
 - [x] Deleted Netflix and some stuff because it's cannot run on normal android system host
 
 ### Info
