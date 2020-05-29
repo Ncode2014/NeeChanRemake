@@ -2,7 +2,8 @@
 ::1             ip6-localhost
 
 # NeeChan Adblock Version
-# 1.0
+# 1.1
+# Updated on Saturday May 30 2020
 # keep support developer to keep updated Host
 # Based On Some Porn Site 
 # google ads maybe can be included soon
@@ -30,6 +31,15 @@
 127.0.0.1 sripchat.com
 127.0.0.1 r.trwl1.com
 127.0.0.1 xgoqw.sexxdate.net
+127.0.0.1 vl.globaladtracking.com
+127.0.0.1 celeritascdn.com
+127.0.0.1 s3.ddistr.xyz
+127.0.0.1 urechar.com
+127.0.0.1 offers.brothersail.com
+127.0.0.1 viu.onelink.me
+127.0.0.1 itpatratr.com
+127.0.0.1 blockadsnot.com
+127.0.0.1 syndication.exosrv.com
 
 # [IPO-Chan Sim Card]
 127.0.0.1 restricted.tri.co.id
