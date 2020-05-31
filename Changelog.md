@@ -1,12 +1,11 @@
-# ChangeLog Update 
-# NeeChan
+# ChangeLog Update NeeChan
 
 
-## Information For Doujins & Nhentai
+## Information update
 ```
-for doujins & Nhentai soon Added Because Nhentai and Doujin have stable ip not like Era 2019 when Doujins.com
-is so difficult to Bypass
+update neechan mulai 1.3 akan tetap ambil base bebasid akan tetapi dengan penambahan ip yang discan sendiri *ambil base trustpositif
 ```
+
 ### Update 1.1 beta 2
 ## Date 31/05/2020
 - [x] Added Youtube ad-block
