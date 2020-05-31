@@ -1,24 +1,22 @@
 # NeChan Remake
 # Changelog
 [Changelog](https://github.com/Ncode2014/NeeChanRemake/blob/master/Changelog.md).
+
 [Contribute](https://github.com/Ncode2014/NeeChanRemake/blob/master/contribute.md).
+
+[BaseHost](https://github.com/bebasid/bebasid)
+
+[Telegram Group](https://t.me/nechunhost)
+
 ### Note
 ```
-finally Neechan Comeback Since November 2019 i stop neechan Project 
-because i have many Work in real life and finally nee chan Comeback with new feature 
-``` 
+Neechan Final Releases 1.1
+and for info it's actually another host with base bebasid 
+so maybe you see the host neechan and bebasid it's the same
+but i made neeChan his to Only Android User & maybe someday i made magisk module for that so see to development of neeChan
 
-### Plan
-- [x] Source Updated
-- [x] Fix Bug Cause Some Ad-block
-- [ ] Make Light Host
-- [ ] Make Adblocker Version
-- [x] Make & Testing New Host
-- [x] Deleted Netflix and some stuff because it's cannot run on normal android system host
-
-### Info
-``` 
-this readme i cannot replace before all project is done
+No forget to support bebasid because without his hardwork we can't access many website because "internet positif" and many things 
+CheckOut on basehost if you want support Bebasid and Keep bebasid alive
 ```
 
 ### Note For New User
@@ -40,6 +38,7 @@ they Have Little size and very nice for Very Potato Phone
 ```
 so if you have some problem From this version i recommend You to don't used if this version unstable for you
 i recommend you To Use Normal,Light Version Because They Is Stable Host And Tested or you can use adblocker version
+and if you want beta version please to join telegram group to get beta version
 ```
 
 >**i hope you can understand and Sorry For Some false on my Language or My English Grammer sorry for that**

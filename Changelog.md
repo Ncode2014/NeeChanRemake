@@ -7,6 +7,12 @@
 for doujins & Nhentai soon Added Because Nhentai and Doujin have stable ip not like Era 2019 when Doujins.com
 is so difficult to Bypass
 ```
+### Update 1.1 beta 2
+## Date 31/05/2020
+- [x] Added Youtube ad-block
+thanks for [Ewpratten](https://gist.github.com/Ewpratten/a25ae63a7200c02c850fede2f32453cf) To host-yt-ads 
+- [x] added new ads website 
+
 ### Update Ready To 1.1 (alpha test)
 - [x] Updated Resource
 ```
