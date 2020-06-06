@@ -14,6 +14,11 @@ fix reddit issue and new site
 ```
 - [x] update adblock list
 - [x] new method for site alternative 127.xxx.xxx
+note
+```
+di update ini via browser bug reddit alias reddit gk bisa buka di via tapi pakai chrome bisa
+```
+
 ### Update 1.1 beta 2
 ## Date 31/05/2020
 - [x] Added Youtube ad-block
