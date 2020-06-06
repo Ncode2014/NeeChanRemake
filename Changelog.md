@@ -6,6 +6,14 @@
 update neechan mulai 1.3 akan tetap ambil base bebasid akan tetapi dengan penambahan ip yang discan sendiri *ambil base trustpositif
 ```
 
+### Update 1.1 beta 3 (not full)
+- [x] still removed netflix 
+- [x] updated source
+```
+fix reddit issue and new site
+```
+- [x] update adblock list
+- [x] new method for site alternative 127.xxx.xxx
 ### Update 1.1 beta 2
 ## Date 31/05/2020
 - [x] Added Youtube ad-block
@@ -33,17 +41,13 @@ added new ads blocking from my research
 
 ### Plan Next To update
 >**Planing Fix soon**
-- [ ] Fixed Some J*v Website
+- [x] Fixed Some J*v Website
 - [x] Fixed P*rn,netflix & Reddit Soon Fix
+# Done,Now
+ **planing Update next**
+- [ ] Make Magisk Module
 ```
-why fix this because base Host Is outdated And Some Website has been taken by IPO-Chan
-so i developer NeechanHost Fix host on my repo self not my base Host on some Repo
-and For Adblock And Light Version i cannot guarantee Because On adblock is so difficult to Added
-because on older NeeChan Has Some problem like a "google Service problem,Shortlink problem and etc" 
-so on adblock version i blocked Third-party ads not google ads,so Hope I can Updated adblocker again
-on Light Version I Guarantee On 15 May i uploaded Light version because on light version is so easy to added compared adblock and Normal Version
-
-Beta Version i added After All Of them fixed So I added Beta Version With Raw Host (no ipo-chan sim card,No Ipochan Blocking pure IP website only)
+idk
 ```
 
 ### NeeChan Remake Normal Version
@@ -55,5 +59,5 @@ Beta Version i added After All Of them fixed So I added Beta Version With Raw Ho
 
 ```
 why netflix is removed because some Host On netflix can't be work on Other provider
-and in normal version I deleted Some Unpopular Website To Reduce Load Host on System Android
+and in light version I deleted Some Unpopular Website To Reduce Load Host on System Android
 ```

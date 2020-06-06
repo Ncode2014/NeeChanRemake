@@ -13,6 +13,11 @@ neechan adalah penerus neeHost yang udh stop project karena tidak diurus
 
 [Telegram Group](https://t.me/nechunhost)
 
+### info
+```
+jadi buat next update 1.3 full release akan late beberapa hari soalnya banyak kegiatan in real life so i guess 2 week i can updated for neechan
+```
+
 ### Note
 ```
 Neechan Final Releases 1.1
