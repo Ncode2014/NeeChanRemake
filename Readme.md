@@ -13,6 +13,14 @@ neechan adalah penerus neeHost yang udh stop project karena tidak diurus
 
 [Telegram Group](https://t.me/nechunhost)
 
+### Via browser issue
+```
+ad bug di via dimana pas kita buka reddit website nya gk bisa diakses jadi ini 
+saran saya buat yang make via recomended pake versi 1.2
+```
+
+[download this for user via](https://gofile.io/d/hrkCq0)
+
 ### info
 ```
 jadi buat next update 1.3 full release akan late beberapa hari soalnya banyak kegiatan in real life so i guess 2 week i can updated for neechan
