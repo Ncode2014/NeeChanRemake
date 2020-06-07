@@ -28,6 +28,7 @@
 
 # [reddit.com]
 151.101.129.140 reddit.com www.reddit.com
+151.101.1.140 www.reddit.com reddit.com
 151.101.1.140 np.reddit.com
 151.101.1.140 bt.reddit.com
 151.101.1.140 m.reddit.com
@@ -37,12 +38,14 @@
 151.101.1.140 about.reddit.com
 151.101.1.140 st.reddit.com
 151.101.1.140 ssl.reddit.com
+151.101.1.140 oauth.reddit.com
 151.101.65.140 oauth.reddit.com
 151.101.1.140 out.reddit.com
 151.101.1.140 origin.reddit.com
 151.101.1.140 old.reddit.com
 151.101.1.140 sendbird.reddit.com
 151.101.1.140 new.reddit.com
+151.101.1.140 gateway.reddit.com
 151.101.65.140 gateway.reddit.com
 151.101.1.140 events.reddit.com
 52.44.97.90 alb.reddit.com
@@ -140,10 +143,12 @@
 151.101.1.140 us.reddit.com
 151.101.1.140 fr.reddit.com
 151.101.1.140 252fwww.reddit.com
+151.101.1.140 redditstatic.com www.redditstatic.com
 151.101.65.140 redditstatic.com www.redditstatic.com
 151.101.53.140 i.redd.it
 151.101.65.140 styles.reddit.com
 151.101.65.140 aib.reddit.com
+
 
 # [twitter.com]
 93.184.220.70 pbs.twimg.com
