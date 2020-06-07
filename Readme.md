@@ -13,10 +13,10 @@ neechan adalah penerus neeHost yang udh stop project karena tidak diurus
 
 [Telegram Group](https://t.me/nechunhost)
 
-### Via browser issue
+### Via browser fix (minor bug)
 ```
-ad bug di via dimana pas kita buka reddit website nya gk bisa diakses jadi ini 
-saran saya buat yang make via recomended pake versi 1.2
+buat fix reddit udh selesai cuma kekurangan nya gk bisa login di reddit
+jadi minimal kalian login harus vpn (buat sekarang)
 ```
 
 [download this for user via](https://gofile.io/d/hrkCq0)

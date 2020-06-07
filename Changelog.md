@@ -6,6 +6,17 @@
 update neechan mulai 1.3 akan tetap ambil base bebasid akan tetapi dengan penambahan ip yang discan sendiri *ambil base trustpositif
 ```
 
+### Update 1.1 beta 4 (idk)
+- [ ] comming soon
+
+### Update 1.1 beta 3 (minor bug found)
+- [x] fix via & many website using https protocol 
+note 
+```
+can access but cannot login because ipochan is more difficult for now
+for some app like via,reddit app and etc (maybe) can be login for now so you need using vpn to just login or register in reddit after that you can enjoy reddit with no vpn
+```
+
 ### Update 1.1 beta 3 (not full)
 - [x] still removed netflix 
 - [x] updated source
