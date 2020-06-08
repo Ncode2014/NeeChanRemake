@@ -4,6 +4,9 @@ neechan adalah host yang berbasis bebasid tetapi dikhususkan untuk android Only
 Neechan memiliki 3 host normal,adblock,light
 neechan adalah penerus neeHost yang udh stop project karena tidak diurus
 ```
+
+# CLOSED REPO THIS WILL MOVE AFTER 1 WEEK
+
 # Changelog & many things
 [Changelog](https://github.com/Ncode2014/NeeChanRemake/blob/master/Changelog.md).
 
