@@ -2,7 +2,7 @@
 ::1             ip6-localhost
 
 # NeeChan Adblock Version
-# 1.3
+# 1.4 (beta 1)
 # Updated on Saturday June 6 2020
 # keep support developer to keep updated Host
 # Based On Some Porn Site 
@@ -15,7 +15,6 @@
 127.0.0.1 ads.youtube.com
 127.0.0.1 clients1.google.com
 127.0.0.1 dts.innovid.com
-127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pixel.moatads.com
 127.0.0.1 rtd.tubemogul.com
@@ -29,7 +28,6 @@
 127.0.0.1 www-googletagmanager.l.google.com
 127.0.0.1 googleadapis.l.google.com
 127.0.0.1 s0.2mdn.net
-127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 files.adform.net
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 securepubads.g.doubleclick.net
@@ -43,7 +41,6 @@
 127.0.0.1 doubleclick.net
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
-127.0.0.1 www.googleadservices.com
 127.0.0.1 youtube-nocookie.com
 127.0.0.1 www.youtube-nocookie.com
 127.0.0.1 analytic-google.com
