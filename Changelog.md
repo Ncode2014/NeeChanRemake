@@ -9,6 +9,15 @@ update neechan mulai 1.3 akan tetap ambil base bebasid akan tetapi dengan penamb
 ### Update 1.1 beta 4 (idk)
 - [ ] comming soon
 
+### Update 1.1 beta 4 (fix some bug)
+```
+reddit is not can be fix for some time bcs i lazy to fix reddit again
+```
+- [x] Adblock =fix youtube music problem
+- [x] Adblock = Fix pubg lite bug ads but it's can be appared ads for some app
+- [x] Light = Updated version
+- [x] Source Update
+
 ### Update 1.1 beta 3 (minor bug found)
 - [x] fix via & many website using https protocol 
 note 
