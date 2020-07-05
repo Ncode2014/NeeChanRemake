@@ -20,7 +20,7 @@ buat fix reddit udh selesai cuma kekurangan nya gk bisa login di reddit
 jadi minimal kalian login harus vpn (buat sekarang)
 ```
 
-[download this for user via](https://gofile.io/d/hrkCq0)
+[download this for user via](https://gofile.io/d/hrkCq0) *outdated*
 
 ### info
 ```
@@ -35,7 +35,7 @@ so maybe you see the host neechan and bebasid it's the same
 but i made neeChan his to Only Android User & maybe someday i made magisk module for that so see to development of neeChan
 
 No forget to support bebasid because without his hardwork we can't access many website because "internet positif" and many things 
-CheckOut on basehost if you want support Bebasid and Keep bebasid alive
+CheckOut on BaseHost (on this readme linked) if you want support Bebasid and Keep bebasid alive
 ```
 
 ### Note For New User
@@ -59,6 +59,8 @@ so if you have some problem From this version i recommend You to don't used if t
 i recommend you To Use Normal,Light Version Because They Is Stable Host And Tested or you can use adblocker version
 and if you want beta version please to join telegram group to get beta version
 ```
+
+- base host version = it's a version original from bebasid but with some modification 
 
 >**i hope you can understand and Sorry For Some false on my Language or My English Grammer sorry for that**
 >**so support this development to Give You New Update**
