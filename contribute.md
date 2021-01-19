@@ -8,7 +8,7 @@
 # How to installing this tool
 ```
 open termux and type command pkg upgrade -y && pkg install nmap -y && pkg install dnsutils -y && pkg install wget -y
-after that you must type command again wget https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.0.42/dnscrypt-proxy-android_arm64-2.0.42.zip && unzip dnscrypt-proxy-android_arm64-2.0.42.zip 
+after that you must type command again wget https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.0.45/dnscrypt-proxy-android_arm64-2.0.45.zip && unzip dnscrypt-proxy-android_arm64-2.0.45.zip 
 after that you have see android-arm64 folder
 ```
 # how to use this tool
