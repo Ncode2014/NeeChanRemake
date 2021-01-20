@@ -5,6 +5,11 @@
 ```
 update neechan mulai 1.3 akan tetap ambil base bebasid akan tetapi dengan penambahan ip yang discan sendiri *ambil base trustpositif
 ```
+
+```
+I know that if i leave this project alone since i was school back the day
+Jadi project NeeChan Akan Kembali Hadir Lagi
+```
 ### Just a Plan in 1.2 beta 1 and 1.3
 > 1.2 progress
 - [x] Updated Adblock With new changes in youtube
@@ -20,13 +25,7 @@ update neechan mulai 1.3 akan tetap ambil base bebasid akan tetapi dengan penamb
  
 
 ### Update 1.2 (2021)
-```
-I know that if i leave this project alone since i was school back the day
-Jadi project NeeChan Akan Kembali Hadir Lagi
-```
 
-### Update 1.1 beta 4 (idk)
-- [ ] comming soon
 
 ### Update 1.1 beta 4 (fix some bug)
 ```
