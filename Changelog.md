@@ -5,14 +5,25 @@
 ```
 update neechan mulai 1.3 akan tetap ambil base bebasid akan tetapi dengan penambahan ip yang discan sendiri *ambil base trustpositif
 ```
+### Just a Plan in 1.2 beta 1 and 1.3
+> 1.2 progress
+- [x] Updated Adblock With new changes in youtube
+- [x] Updated Base Host and updating light and normal host
+
+>> 1.2 beta 1 progress
+ - [ ] added anti-tracking gooogle
+ - [ ] updated ad site 
+ - [ ] Magisk module introduce to testing
+ 
+ >> 1.3 progress
+ - [ ] just a plan 
+ 
 
 ### Update 1.2 (2021)
 ```
 I know that if i leave this project alone since i was school back the day
 Jadi project NeeChan Akan Kembali Hadir Lagi
 ```
-- [ ] reupdate Host
-- [ ] adding more naise
 
 ### Update 1.1 beta 4 (idk)
 - [ ] comming soon
