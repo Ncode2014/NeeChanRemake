@@ -12,7 +12,6 @@ neechan adalah penerus neeHost yang udh stop project karena tidak diurus
 
 [BaseHost](https://github.com/bebasid/bebasid)
 
-[Telegram Group](https://t.me/nechunhost)
 
 ### Via browser fix (minor bug)
 ```
@@ -20,19 +19,18 @@ buat fix reddit udh selesai cuma kekurangan nya gk bisa login di reddit
 jadi minimal kalian login harus vpn (buat sekarang)
 ```
 
-[download this for user via](https://gofile.io/d/hrkCq0) *outdated*
+
 
 ### info
 ```
-jadi buat next update 1.3 full release akan late beberapa hari soalnya banyak kegiatan in real life so i guess 2 week i can updated for neechan
+jadi buat next update 1.3 ada magis module
 ```
 
 ### Note
 ```
-Neechan Final Releases 1.1
-and for info it's actually another host with base bebasid 
-so maybe you see the host neechan and bebasid it's the same
-but i made neeChan his to Only Android User & maybe someday i made magisk module for that so see to development of neeChan
+Neechan Final Releases 1.3
+yeah to late for that so yeah sorry but i have a plan to continue this project so hopefully no problem
+magisk module maybe i introduce in 1.2 beta 1 but for tester only
 
 No forget to support bebasid because without his hardwork we can't access many website because "internet positif" and many things 
 CheckOut on BaseHost (on this readme linked) if you want support Bebasid and Keep bebasid alive
